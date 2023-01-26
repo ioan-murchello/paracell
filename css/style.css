@@ -112,9 +112,9 @@
   background-color: #fff;
   transform: translate(0, 9px);
   -webkit-transform: translate(0, 9px) rotate(45deg);
-  -moz-transform: translate(0, 9px);
-  -ms-transform: translate(0, 9px);
-  -o-transform: translate(0, 9px);
+  -moz-transform: translate(0, 9px) rotate(45deg);
+  -ms-transform: translate(0, 9px) rotate(45deg);
+  -o-transform: translate(0, 9px) rotate(45deg);
 }
 
 .active-burger:nth-child(2) {
